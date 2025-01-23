@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+div {
+    border: 10px dashed red;
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: black; */
+    margin: 24px;
+    padding: 24px 36px;
+    background-color: lightcoral
+}
+
+p {
+    border: 20px outset blue;
+    margin: 200px;
+    padding: 48px 60px;
+    background-color: cornflowerblue;
+    border-radius: 50px;
+}
