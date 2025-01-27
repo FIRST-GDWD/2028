@@ -6,3 +6,19 @@
 
     Good luck, and have fun!
 */
+
+#frame1 img {
+    width: 100%;
+}
+
+#frame1 {
+    width: 100px;
+    margin-top: 50px;
+    border: 10px ridge rgb(130, 65, 1);
+    padding: 15px;
+    background-color: antiquewhite;
+}
+
+#frame1 p {
+    margin: 4px 4px 0px;
+}
